@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b8cd8a7e-9e2e-42b1-a129-9bc2d1333dad",
+    "name": "joe_xyz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ca11d022-8327-4509-af64-aaafdaa8276d",
+    "name": "d_Orin_b",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4f98f26f-254f-4b28-95c3-44be649e3d4f",
+    "name": "IamRectangles",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c37305da-30ce-466a-a60d-d56b2d24bea2",
+    "name": "SylviasFox",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

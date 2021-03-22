@@ -1,0 +1,3 @@
+[16:59:37] [User Authenticator #41/INFO]: UUID of player amnifeee is 71c36828-9358-496f-86d5-80f57886514a
+[16:59:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c462931[id=71c36828-9358-496f-86d5-80f57886514a,name=amnifeee,properties={textures=[com.mojang.authlib.properties.Property@5939d26b]},legacy=false] (/67.241.170.241:55882): You are not white-listed on this server!
+[16:59:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c462931[id=71c36828-9358-496f-86d5-80f57886514a,name=amnifeee,properties={textures=[com.mojang.authlib.properties.Property@5939d26b]},legacy=false] (/67.241.170.241:55882) lost connection: You are not white-listed on this server!
